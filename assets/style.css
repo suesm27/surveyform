@@ -1,0 +1,90 @@
+.main-container {
+    background-color: #fafafa ;
+    padding: 20px;
+    max-width: 600px;
+    margin: 100px auto;
+}
+
+.main-container input{
+    
+}
+
+.form-container{
+    display: block;
+    margin-bottom: 20px;
+
+    
+}
+
+
+.styled-select select{
+    
+  background: #d8d8d8 ;
+  width: 100%;
+  padding: 5px;
+  font-size: 16px;
+  line-height: 1;
+  border: 0;
+  border-radius: 0;
+  height: 34px;
+  color: #fff;
+  background: url('../img/new_arrow.png') no-repeat right #ddd;
+  -webkit-appearance: none;
+  
+}
+.styled-select,  {
+  width: 100%;
+  height: 34px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  
+  }
+
+
+#name{
+    width: 100%;
+  height: 34px;
+}
+
+
+.comment-container{
+    text-align: center;
+}
+
+.comment-container label{
+    text-align: left;
+}
+
+form{
+    text-align: left;
+}
+
+table{
+    margin: 0 auto;
+
+}
+
+
+/*td,th{
+    
+    border:1px solid #000;
+}
+*/
+
+input[type="submit"]{
+    border: none;
+    padding: 15px;
+    background-color: #36a3e2 ;
+    width: 100px;
+    float: right;
+
+    
+
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    border: 1px solid #bfbfbf ;
+   margin: 10px 0px 20px 0px;
+}
